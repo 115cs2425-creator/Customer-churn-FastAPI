@@ -1,5 +1,6 @@
 .venv/
 myenv/
-__pycache__/.env
+__pycache
+__/.env
 awscliv2.zip
 aws/
